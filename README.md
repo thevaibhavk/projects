@@ -1,4 +1,4 @@
-# Adele Chatbot
+# Adele Virtual Assistance
 ## _Chatbot built on Rasa_
 
 ![N|Solid](https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg) 
